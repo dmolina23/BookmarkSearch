@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "BookmarkSearch",
+  "description": "Search for a bookmark by its title and suggest that bookmark url",
+  "version": "1.0",
+  "permissions": ["bookmarks"],
+  "omnibox": {"keyword": "ma"}
+}
